@@ -6,12 +6,12 @@ title: David C. Simpson
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Political Science Doctoral Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Columbia University
+  url: https://www.columbia.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

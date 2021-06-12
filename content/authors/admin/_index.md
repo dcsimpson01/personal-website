@@ -18,9 +18,9 @@ bio: My research interests include Congressional politics, fiscal federalism and
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- State and Local Politics
+- Affordable Housing
+- Congressional Politics
 
 # Education to show in About widget
 education:
@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-David Simpson is a Political Science doctoral student at Columbia University. His specialties are American Politics and Political Economy, and his current research focuses are Congress, sfiscal federalism, public finance, state and local politics and institutional inequity.
+David Simpson is a Political Science doctoral student at Columbia University. His specialties are American Politics and Political Economy, and his current research focuses are Congress, fiscal federalism, public finance, state and local politics and institutional inequity.
 
 Mr. Simpson graduated from the University of Alabama in 2012 with a B.A. in Political Science and Economics. He also holds a M.P.P from The University of Chicago Harris School of Public Policy and a M.A. in Economics from Columbia University. Prior to joining the Political Science program at Columbia, he worked as a high school teacher in Montgomery, AL and as a fiscal analyst for the Baltimore City Council in Baltimore, MD.
 

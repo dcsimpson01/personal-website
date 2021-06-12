@@ -14,7 +14,7 @@ organizations:
   url: https://www.columbia.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Congressional politics, fiscal federalism and institutional inequity.
 
 # Interests to show in About widget
 interests:
@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+David Simpson is a Political Science doctoral student at Columbia University. His specialties are American Politics and Political Economy, and his current research focuses are Congress, sfiscal federalism, public finance, state and local politics and institutional inequity.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mr. Simpson graduated from the University of Alabama in 2012 with a B.A. in Political Science and Economics. He also holds a M.P.P from The University of Chicago Harris School of Public Policy and a M.A. in Economics from Columbia University. Prior to joining the Political Science program at Columbia, he worked as a high school teacher in Montgomery, AL and as a fiscal analyst for the Baltimore City Council in Baltimore, MD.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

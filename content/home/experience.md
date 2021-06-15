@@ -22,28 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+#  - title: CEO
+#    company: GenCoin
+#    company_url: ''
+#    company_logo: org-gc
+#    location: California
+#    date_start: '2021-01-01'
+#    date_end: ''
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+#  - title: Professor of Semiconductor Physics
+#    company: University X
+#    company_url: ''
+#    company_logo: org-x
+#    location: California
+#    date_start: '2016-01-01'
+#    date_end: '2020-12-31'
+#    description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Fiscal Analyst
+    company: Baltimore City Council
+    company_url: 'https://www.baltimorecitycouncil.com'
+    company_logo: baltimore
+    location: Baltimore, MD
+    date_start: '2018-02-01'
+    date_end: '2018-08-31'
+    description: Analyzed city budget and produced fiscal reports on policy items.
+
+  - title: Geometry Teacher
+    company: Montgomery Public Schools
+    company_url: 'http://www.mps.k12.al.us'
+    company_logo: mps
+    location: Montgomery, AL
+    date_start: '2012-08-01'
+    date_end: '2014-05-31'
+    description: Taught geometry and advanced geometry.
 
 design:
   columns: '2'

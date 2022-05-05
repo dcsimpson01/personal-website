@@ -1,7 +1,7 @@
 ---
-title: Attrition Presentation
+title: Example Talk
 
-event: Elections Course Presentations
+event: Wowchemy Conference
 event_url: https://example.org
 
 location: Wowchemy HQ
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An overview of a presentation on attrition in before/after event analyses.
+summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: admin
-tags: Academic
+authors: []
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -71,5 +71,3 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
-
-

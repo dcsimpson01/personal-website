@@ -57,14 +57,14 @@ experience:
     date_end: '2018-08-31'
     description: Analyzed city budget and produced fiscal reports on policy items.
 
-  - title: Geometry Teacher
-    company: Montgomery Public Schools
-    company_url: 'http://www.mps.k12.al.us'
-    company_logo: mps
-    location: Montgomery, AL
-    date_start: '2012-08-01'
-    date_end: '2014-05-31'
-    description: Taught geometry and advanced geometry.
+  # - title: Geometry Teacher
+  #   company: Montgomery Public Schools
+  #   company_url: 'http://www.mps.k12.al.us'
+  #   company_logo: mps
+  #   location: Montgomery, AL
+  #   date_start: '2012-08-01'
+  #   date_end: '2014-05-31'
+  #   description: Taught geometry and advanced geometry.
 
 design:
   columns: '2'

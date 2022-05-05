@@ -2,15 +2,15 @@
 title: Attrition Presentation
 
 event: Elections Course Presentations
-event_url: ''
+event_url: 
 
-location: ''
+location: 
 address:
-  street: ''
-  city: ''
-  region: ''
-  postcode: ''
-  country: ''
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 
 summary: An overview of a presentation on attrition in before/after event analyses.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
@@ -71,3 +71,5 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+
+

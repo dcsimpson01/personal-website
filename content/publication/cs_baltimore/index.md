@@ -46,7 +46,7 @@ featured: true
 url_pdf: 'https://baltimore.legistar.com/View.ashx?M=F&ID=6217972&GUID=E3847CAB-419E-42E6-A63E-9A53B88F8F6A'
 url_code: ''
 url_dataset: ''
-url_poster: 'static/uploads/cs_report'
+url_poster: static/uploads/cs_report.pdf
 url_project: ''
 url_slides: ''
 url_source: 'https://baltimore.legistar.com/LegislationDetail.aspx?ID=3105004&GUID=D84D8A72-1C20-494D-A909-7503F044A56F&Options=ID%257CText%257C&Search=complete+streets'
@@ -56,7 +56,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**Baltimore DOT**](https://transportation.baltimorecity.gov/sites/default/files/Baltimore%20Complete%20Streets%20Manual%20Final%20March%202021-compressed.pdf)'
-  focal_point: ""
+  focal_point: "center"
   preview_only: false
 
 # Associated Projects (optional).

@@ -41,17 +41,12 @@ experience:
         
  - title: Data Scientist / Research Assistant
    company: Columbia University
-   company_url: ''
+   company_url: 'https://www.columbia.edu'
    company_logo: columbia
    location: New York, NY
    date_start: '2019-01-01'
-   date_end: ''
-   description: |2- 
-      Responsibilities include:
-        
-        * Data collection, scraping, and cleaning
-        * Empirical Analysis
-        * Data visualization
+   date_end: '2022-05-31'
+   description: text
 
   - title: Fiscal Analyst
     company: Baltimore City Council

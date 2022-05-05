@@ -28,7 +28,7 @@ publication_types: ["0"]
 publication: Baltimore Legistar
 publication_short: Baltimore Legistar
 
-abstract: The report provides a fiscal analysis of Baltimore's 2017 bill to adopt a manual for multimodal street design.
+abstract: A complete street is one designed to meet the multimodal transportation needs of a community. The design jointly considers the priorities of pedestrians, bicyclists, motorists, and public transit riders. Community needs may include economic, health, equity and safety goals or concerns. This report provides a fiscal analysis of Baltimore's 2017 bill to establish a "Complete Streets" design manual.
 
 # Summary. An optional shortened abstract.
 summary: The report provides a fiscal analysis of Baltimore's 2017 bill to adopt a manual for multimodal street design.
@@ -46,7 +46,7 @@ featured: true
 url_pdf: 'https://baltimore.legistar.com/View.ashx?M=F&ID=6217972&GUID=E3847CAB-419E-42E6-A63E-9A53B88F8F6A'
 url_code: ''
 url_dataset: ''
-url_poster: 'static/uploads/cs_report.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://baltimore.legistar.com/LegislationDetail.aspx?ID=3105004&GUID=D84D8A72-1C20-494D-A909-7503F044A56F&Options=ID%257CText%257C&Search=complete+streets'

@@ -47,7 +47,7 @@ experience:
    date_start: '2019-01-01'
    date_end: ''
    description: |2- 
-           Responsibilities include:
+      Responsibilities include:
         
         * Data collection, scraping, and cleaning
         * Empirical Analysis

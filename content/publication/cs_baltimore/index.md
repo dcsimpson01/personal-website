@@ -46,7 +46,7 @@ featured: true
 url_pdf: 'https://baltimore.legistar.com/View.ashx?M=F&ID=6217972&GUID=E3847CAB-419E-42E6-A63E-9A53B88F8F6A'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'static/uploads/cs_report'
 url_project: ''
 url_slides: ''
 url_source: 'https://baltimore.legistar.com/LegislationDetail.aspx?ID=3105004&GUID=D84D8A72-1C20-494D-A909-7503F044A56F&Options=ID%257CText%257C&Search=complete+streets'

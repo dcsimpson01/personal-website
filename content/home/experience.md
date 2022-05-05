@@ -39,7 +39,7 @@ experience:
 #        * Modelling
 #        * Deploying
         
- - title: Data Scientist / Research Assistant
+ - title: Data Scientist and Research Assistant
    company: Columbia University
    company_url: 'https://www.columbia.edu'
    company_logo: columbia

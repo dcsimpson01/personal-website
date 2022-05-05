@@ -46,7 +46,12 @@ experience:
    location: New York, NY
    date_start: '2019-01-01'
    date_end: ''
-   description: `|2-` Conducted a wide range of data collection, empirical analysis, and data visualization tasks for academic research.
+   description: |2- 
+           Responsibilities include:
+        
+        * Data collection, scraping, and cleaning
+        * Empirical Analysis
+        * Data visualization
 
   - title: Fiscal Analyst
     company: Baltimore City Council

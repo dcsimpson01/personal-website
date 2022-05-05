@@ -25,8 +25,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: *Baltimore Legistar*
+publication_short: 
 
 abstract: The report provides a fiscal analysis of Baltimore's 2017 bill to adopt a manual for multimodal street design.
 
@@ -49,7 +49,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://baltimore.legistar.com/LegislationDetail.aspx?ID=3105004&GUID=D84D8A72-1C20-494D-A909-7503F044A56F&Options=ID%257CText%257C&Search=complete+streets'
 url_video: ''
 
 # Featured image

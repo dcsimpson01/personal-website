@@ -45,7 +45,7 @@ experience:
    company_logo: columbia
    location: New York, NY
    date_start: '2019-01-01'
-   date_end:
+   date_end: ''
    description: Conducted a wide range of data collection, empirical analysis, and data vizualization tasks for academic research.
 
   - title: Fiscal Analyst

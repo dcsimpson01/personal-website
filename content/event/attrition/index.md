@@ -17,8 +17,8 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2030-06-01"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,8 +31,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/igCBFrMd11I)'
+  focal_point: Center
 
 links:
 #- icon: twitter

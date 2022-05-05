@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Attrition Presentation
 
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Columbia University
 address:
   street: 450 Serra Mall
   city: Stanford

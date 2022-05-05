@@ -1,8 +1,8 @@
 ---
-title: Attrition Presentation
+title: Impact of Attrition on Before/After Event Studies of Presidential Approval
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url: 
 
 location: Columbia University
 address:

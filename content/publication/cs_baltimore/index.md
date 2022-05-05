@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/3LW-MzohI2o)'
+  caption: 'Image credit: [**Baltimore DOT**](https://transportation.baltimorecity.gov/sites/default/files/Baltimore%20Complete%20Streets%20Manual%20Final%20March%202021-compressed.pdf)'
   focal_point: ""
   preview_only: false
 
@@ -75,12 +75,12 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

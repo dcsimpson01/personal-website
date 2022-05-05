@@ -4,13 +4,13 @@ title: Attrition Presentation
 event: Elections Course Presentations
 event_url: 
 
-location: 
+<!--location: 
 address:
   street: 
   city: 
   region: 
   postcode: 
-  country: 
+  country: -->
 
 summary: An overview of a presentation on attrition in before/after event analyses.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

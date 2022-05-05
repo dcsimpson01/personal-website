@@ -21,6 +21,8 @@ interests:
 - State and Local Politics
 - Affordable Housing
 - Congressional Politics
+- Financial Analysis
+- Quasi-Experimental Methods
 
 # Education to show in About widget
 education:

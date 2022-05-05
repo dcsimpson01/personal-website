@@ -39,14 +39,14 @@ experience:
 #        * Modelling
 #        * Deploying
         
- - title: Data Scientist and Research Assistant
+ - title: Data Scientist / Research Assistant
    company: Columbia University
    company_url: ''
    company_logo: columbia
    location: New York, NY
    date_start: '2019-01-01'
    date_end: ''
-   description: Conducted a wide range of data collection, empirical analysis, and data visualization tasks for academic research.
+   description: `|2-` Conducted a wide range of data collection, empirical analysis, and data visualization tasks for academic research.
 
   - title: Fiscal Analyst
     company: Baltimore City Council

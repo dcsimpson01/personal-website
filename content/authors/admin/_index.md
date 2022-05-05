@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Political Science
+    institution: Columbia University
+    year: 2023 (Expected)
   - course: MA in Economics
     institution: Columbia University
     year: 2017

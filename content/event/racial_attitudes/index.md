@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Evaluating Racial Attitudes using the General Social Survey (GSS)
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Public Opinion Course Presentations
+event_url: 
 
-location: Wowchemy HQ
+location: Columbia University
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: In this presentiation
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
@@ -31,8 +31,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/f6PNAO4Kn18)'
+  focal_point: Center
 
 links:
 - icon: twitter

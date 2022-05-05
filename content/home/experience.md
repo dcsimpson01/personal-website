@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Select Experience
 subtitle:
 
 # Date format for experience
@@ -39,14 +39,14 @@ experience:
 #        * Modelling
 #        * Deploying
         
-#  - title: Professor of Semiconductor Physics
-#    company: University X
-#    company_url: ''
-#    company_logo: org-x
-#    location: California
-#    date_start: '2016-01-01'
-#    date_end: '2020-12-31'
-#    description: Taught electronic engineering and researched semiconductor physics.
+ - title: Data Scientist & Research Assistant
+   company: Columbia University
+   company_url: ''
+   company_logo: columbia
+   location: New York, NY
+   date_start: '2019-01-01'
+   date_end:
+   description: Conducted a wide range of data collection, empirical analysis, and data vizualization tasks for academic research.
 
   - title: Fiscal Analyst
     company: Baltimore City Council

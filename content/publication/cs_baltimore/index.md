@@ -26,7 +26,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: *Baltimore Legistar*
-# publication_short: ""
+publication_short: ""
 
 abstract: The report provides a fiscal analysis of Baltimore's 2017 bill to adopt a manual for multimodal street design.
 

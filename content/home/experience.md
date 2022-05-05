@@ -39,14 +39,14 @@ experience:
 #        * Modelling
 #        * Deploying
         
- - title: Data Scientist and Research Assistant
-   company: Columbia University
-   company_url: 'https://www.columbia.edu'
-   company_logo: columbia
-   location: New York, NY
-   date_start: '2019-01-01'
-   date_end: '2022-05-31'
-   description: text
+  - title: Data Scientist and Research Assistant
+    company: Columbia University
+    company_url: 'https://www.columbia.edu'
+    company_logo: columbia
+    location: New York, NY
+    date_start: '2019-01-01'
+    date_end: '2022-05-31'
+    description: text
 
   - title: Fiscal Analyst
     company: Baltimore City Council

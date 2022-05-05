@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://baltimore.legistar.com/View.ashx?M=F&ID=6217972&GUID=E3847CAB-419E-42E6-A63E-9A53B88F8F6A'
 url_code: ''
 url_dataset: ''
 url_poster: ''

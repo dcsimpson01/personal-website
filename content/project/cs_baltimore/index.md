@@ -18,7 +18,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: uploads/cs_report.pdf
 url_slides: ""
 url_video: ""
 
@@ -40,4 +40,4 @@ The report was one of many steps in the adoption of a complete streets design ma
 
 Finally, for a quick introduction to complete streets policy, see [Smart Growth America's](https://smartgrowthamerica.org/what-are-complete-streets/) complete streets primer. For a more detailed dive on the topic, check out this [link](https://nacto.org/references/a-hrefhttpwww/) from the National Association of City Transportation Officials (NACTO).
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/cs_report.pdf" "newtab" >}}report{{< /staticref >}}
+<!--{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/cs_report.pdf" "newtab" >}}report{{< /staticref >}}-->

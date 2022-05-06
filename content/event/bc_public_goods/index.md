@@ -41,7 +41,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: uploads/bc_public/goods/Simpson_Besley_Coate_Pres.pdf
+url_slides: uploads/bc_public_goods/Simpson_Besley_Coate_Pres.pdf
 url_video: ""
 
 # Markdown Slides (optional).
@@ -59,5 +59,5 @@ slides: ""
 projects: []
 ---
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/event_presentations/Simpson_Elections_Project.pdf" "newtab" >}}presentation{{< /staticref >}}
+<!--{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/event_presentations/Simpson_Elections_Project.pdf" "newtab" >}}presentation{{< /staticref >}} -->
 

@@ -19,7 +19,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: uploads/cs_report.pdf
+url_pdf: uploads/jalapeno_rct/Simpson_Experiment_Results.pdf
 url_slides: ""
 url_video: ""
 
@@ -31,6 +31,12 @@ url_video: ""
 slides: ""
 ---
 
+## Overview
+
+## Introduction
+
+##
+
 In 2019, I got to t
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/cs_report.pdf" "newtab" >}}report{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/jalapeno_rct/Simpson_Pre-Analysis_Plan.pdf" "newtab" >}}project{{< /staticref >}}

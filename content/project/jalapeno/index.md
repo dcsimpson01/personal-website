@@ -2,14 +2,15 @@
 title: Do Jalapeño Seeds Matter in Guacamole?
 summary: A Randomized Control Trial with Jalapeños and Guacamole
 tags:
-- Other
+- Academic
+- Fun
 date: "2022-05-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Nadine Primeau via Unsplash
+  caption: Nadine Primeau via [Unsplash](https://unsplash.com/photos/KD3XqquHlcc)
   focal_point: Center
 
 links:
@@ -30,7 +31,7 @@ url_video: ""
 slides: ""
 ---
 
-In 2019 I took Don Green's [Nadine Primeau via Unsplash](https://unsplash.com/photos/KD3XqquHlcc)
+In 2019 I took Don Green's 
 
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/cs_report.pdf" "newtab" >}}report{{< /staticref >}}

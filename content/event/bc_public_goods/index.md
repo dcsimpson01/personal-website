@@ -40,8 +40,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: Simpson_Besley_Coate_Pres.pdf
-url_slides: ""
+url_pdf: ""
+url_slides: uploads/bc_public/goods/Simpson_Besley_Coate_Pres.pdf
 url_video: ""
 
 # Markdown Slides (optional).

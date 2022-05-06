@@ -12,7 +12,8 @@ address:
   postcode:
   country:
 
-summary: In this presentation, I use the General Social Survey (GSS) to present changes in American racial attitudes by demographic subgroups. Topics covered include attitudes regarding discrimination (broadly), housing discrimination, school district busing, government aid, and workplace affirmative action.
+summary: A presentation on changing racial attitudes as measured by the GSS.
+abstract: In this presentation, I use the General Social Survey (GSS) to present changes in American racial attitudes by demographic subgroups. Topics covered include attitudes regarding discrimination (broadly), housing discrimination, school district busing, government aid, and workplace affirmative action.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

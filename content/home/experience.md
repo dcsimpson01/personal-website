@@ -55,7 +55,7 @@ experience:
     location: Baltimore, MD
     date_start: '2018-02-01'
     date_end: '2018-08-31'
-    description: Analyzed city budget and produced fiscal reports on policy items.
+    description: Analyzed city budget documents and produced fiscal reports on policy items.
 
   # - title: Geometry Teacher
   #   company: Montgomery Public Schools

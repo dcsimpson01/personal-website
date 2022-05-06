@@ -1,9 +1,9 @@
 ---
 title: 'Jalapeño: A Spicy RCT'
-subtitle: A blog post about a randomized control trials (RCT)s, jalapeños and guacamole.
+subtitle: A blog post about randomized control trials (RCT)s, jalapeños and guacamole.
 
 # Summary for listings and search engines
-summary: A blog post about a randomized control trials (RCT)s, jalapeños and guacamole.
+summary: A blog post about randomized control trials (RCT)s, jalapeños and guacamole.
 
 # Link this post with a project
 projects: []

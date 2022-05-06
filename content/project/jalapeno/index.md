@@ -9,7 +9,7 @@ date: "2022-05-05T00:00:00Z"
 external_link: ""
 
 image:
-  caption: [Nadine Primeau via Unsplash](https://unsplash.com/photos/KD3XqquHlcc)
+  caption: Nadine Primeau via Unsplash
   focal_point: Center
 
 links:
@@ -30,7 +30,7 @@ url_video: ""
 slides: ""
 ---
 
-In 2019 I took Don Green's
+In 2019 I took Don Green's [Nadine Primeau via Unsplash](https://unsplash.com/photos/KD3XqquHlcc)
 
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/cs_report.pdf" "newtab" >}}report{{< /staticref >}}

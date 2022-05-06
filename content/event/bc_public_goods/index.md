@@ -12,8 +12,8 @@ address:
   postcode:
   country: 
 
-summary: A presentation on how balh.
-abstract: "Do irrelevant events cause voters to change their evaluations of incumbent politicians? I present results summarizing a replication analysis of Busby et al. (2017). Results indicate that attrition in before/after event studies of public opinion results in biased average treatement effect (ATE) estimates."
+summary: A presentation on two theories of (de)centralization and local public goods provision.
+abstract: "Tiebout (1956)'s theory of local public goods provision suggests that decentralized municipal competition leads to an optimal goods provision. However, when Tiebout's strong theoretical assumptions are relaxed, final allocations are subject to a variety of inefficiencies. This presentation covers Oates (1972) and Besley and Coate (2003) to explore coordination failures, preference matching failures, uncertainty, misallocation, and strategic delegation in the context of decentralized and centralized public goods provision."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -31,7 +31,7 @@ tags: Academic
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash: Rod Long**](https://unsplash.com/photos/f6PNAO4Kn18)'
+  caption: 'Image credit: [**Rod Long via Unsplash**](https://unsplash.com/photos/f6PNAO4Kn18)'
   focal_point: Center
 
 links:

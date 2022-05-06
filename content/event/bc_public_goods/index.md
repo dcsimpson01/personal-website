@@ -1,7 +1,7 @@
 ---
-title: Impact of Attrition on Event Studies of Presidential Approval
+title: Theories of Local Public Goods Provision
 
-event: Elections Course Presentation
+event: Game Theory Course Presentations
 event_url: 
 
 location: Columbia University
@@ -12,12 +12,12 @@ address:
   postcode:
   country: 
 
-summary: A presentation on how attrition in event studies leads to biased ATE estimates.
+summary: A presentation on how balh.
 abstract: "Do irrelevant events cause voters to change their evaluations of incumbent politicians? I present results summarizing a replication analysis of Busby et al. (2017). Results indicate that attrition in before/after event studies of public opinion results in biased average treatement effect (ATE) estimates."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-05-02"
+date: "2020-02-14"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -31,7 +31,7 @@ tags: Academic
 featured: false
 
 image:
-  caption: 'Image credit: [David Strickler via Unsplash](https://unsplash.com/photos/igCBFrMd11I)'
+  caption: 'Image credit: [Jermaine Ee via Unsplash](https://unsplash.com/photos/A2CChTZvzTE)'
   focal_point: Center
 
 links:

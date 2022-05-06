@@ -55,8 +55,7 @@ slides: uploads/event_presentations/Simpson-Racial_Attitudes.pdf
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+projects: []
 ---
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/event_presentations/Simpson-Racial_Attitudes.pdf" "newtab" >}}presentation{{< /staticref >}}

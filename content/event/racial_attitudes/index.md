@@ -24,7 +24,7 @@ all_day: true
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: Academic
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -59,4 +59,4 @@ projects:
 - example
 ---
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/event_presentations/Simpson-Racial_Attitudes.pdf" "newtab" >}}report{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/event_presentations/Simpson-Racial_Attitudes.pdf" "newtab" >}}presentation{{< /staticref >}}

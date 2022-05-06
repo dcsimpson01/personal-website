@@ -18,7 +18,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
+url_code: uploads/jalapeno_rct/Guacamole.R
 url_pdf: uploads/jalapeno_rct/Simpson_Experiment_Results.pdf
 url_slides: ""
 url_video: ""
@@ -33,10 +33,9 @@ slides: ""
 
 ## Overview
 
-## Introduction
+This is the project page for my fun, yet academic, guacamole RCT. I used [Google Forms](https://docs.google.com/forms/) to collect participant survey responses regarding the taste profiles of different guacamole types. I then used R to process and analyze the survey data. To develop the experiment, I relied on [*Field Experiments: Design, Analysis and Interpretation*](https://isps.yale.edu/FEDAI) by Dr. Alan Gerber and Donald Green.
 
-##
+The top of the page includes links to the pdf of my report, as well as a link to my R code. At the bottom of this page, you can find a link to my pre-analysis plan.
 
-In 2019, I got to t
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/jalapeno_rct/Simpson_Pre-Analysis_Plan.pdf" "newtab" >}}project{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/jalapeno_rct/Simpson_Pre-Analysis_Plan.pdf" "newtab" >}}pre-analysis plan{{< /staticref >}}.

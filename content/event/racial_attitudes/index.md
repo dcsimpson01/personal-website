@@ -6,11 +6,11 @@ event_url:
 
 location: Columbia University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode:
+  country:
 
 summary: In this presentation, I use the General Social Survey (GSS) to present changes in American racial attitudes by demographic subgroups. Topics covered include attitudes regarding discrimination (broadly), housing discrimination, school district busing, government aid, and workplace affirmative action.
 

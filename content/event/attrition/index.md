@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: A presentation demonstrating how attrition 
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.

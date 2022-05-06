@@ -59,5 +59,6 @@ slides: ""
 projects: []
 ---
 
+
 <!--{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/event_presentations/Simpson_Elections_Project.pdf" "newtab" >}}presentation{{< /staticref >}} -->
 

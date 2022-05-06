@@ -12,8 +12,8 @@ address:
   postcode:
   country:
 
-summary: A presentation demonstrating how attrition 
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A presentation on how attrition in event studies lead to biased ATE estimates.
+abstract: "Do irrelevant events cause voters to change their evaluations of incumbent politicians? I present results summarizing a replication analysis of Busby et al. (2017). Results indicate that attrition in before/after event studies of public opinion results in biased average treatement effect (ATE) estimates."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

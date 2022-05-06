@@ -12,7 +12,7 @@ address:
   postcode:
   country: 
 
-summary: A presentation on how attrition in event studies lead to biased ATE estimates.
+summary: A presentation on how attrition in event studies leads to biased ATE estimates.
 abstract: "Do irrelevant events cause voters to change their evaluations of incumbent politicians? I present results summarizing a replication analysis of Busby et al. (2017). Results indicate that attrition in before/after event studies of public opinion results in biased average treatement effect (ATE) estimates."
 
 # Talk start and end times.

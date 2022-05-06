@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 
-summary: A {{< staticref "uploads/event_presentations/Simpson-Racial_Attitudes.pdf" "newtab" >}}presentation{{< /staticref >}} on changing racial attitudes as measured by the GSS.
+summary: A presentation on changing racial attitudes as measured by the GSS.
 abstract: "I use the General Social Survey (GSS) to present changes in American racial attitudes by demographic subgroups. Topics covered include attitudes regarding discrimination (broadly), housing discrimination, school district busing, government aid, and workplace affirmative action."
 
 # Talk start and end times.

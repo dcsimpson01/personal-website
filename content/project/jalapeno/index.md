@@ -31,7 +31,7 @@ url_video: ""
 slides: ""
 ---
 
-In 2019 I took Don Green's 
+In 2019,I took Don Green's 
 
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/cs_report.pdf" "newtab" >}}report{{< /staticref >}}

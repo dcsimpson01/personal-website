@@ -2,7 +2,7 @@
 title: Evaluating Racial Attitudes using the General Social Survey (GSS)
 
 event: Public Opinion Course Presentations
-event_url: 
+event_url:
 
 location: Columbia University
 address:
@@ -12,14 +12,13 @@ address:
   postcode: '94305'
   country: United States
 
-summary: In this presentation
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: In this presentation, I use the General Social Survey (GSS) to present changes in American racial attitudes by demographic subgroups. Topics covered include attitudes regarding discrimination (broadly), housing discrimination, school district busing, government aid, and workplace affirmative action.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-02-11"
 #date_end: "2030-06-01T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"

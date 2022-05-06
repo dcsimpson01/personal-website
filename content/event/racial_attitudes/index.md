@@ -23,14 +23,14 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: admin
+authors: []
 tags: Academic
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/f6PNAO4Kn18)'
+  caption: 'Image credit: [**Unsplash: Rod Long**](https://unsplash.com/photos/f6PNAO4Kn18)'
   focal_point: Center
 
 links:
@@ -48,7 +48,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: uploads/event_presentations/Simpson-Racial_Attitudes.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

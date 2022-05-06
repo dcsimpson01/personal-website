@@ -41,7 +41,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: uploads/event_presentations/Simpson-Racial_Attitudes.pdf
 url_video: ""
 
 # Markdown Slides (optional).
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: uploads/event_presentations/Simpson-Racial_Attitudes.pdf
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -59,4 +59,4 @@ slides: uploads/event_presentations/Simpson-Racial_Attitudes.pdf
 projects: []
 ---
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/event_presentations/Simpson-Racial_Attitudes.pdf" "newtab" >}}presentation{{< /staticref >}}
+<!-- {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/event_presentations/Simpson-Racial_Attitudes.pdf" "newtab" >}}presentation{{< /staticref >}} -->

@@ -19,7 +19,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: R, Python, Mathematica, git, LaTeX, STATA, MATLAB, QGIS
   icon: r-project
   icon_pack: fab
   name: Programming

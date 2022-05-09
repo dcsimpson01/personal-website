@@ -21,12 +21,12 @@ subtitle:
 feature:
 - description: R, Python, Mathematica, git, LaTeX, STATA, MATLAB, QGIS
   icon: Code
-  icon_pack: fab
+  icon_pack: fas
   name: Programming
-- description: 100%
+- description: RCTs, Quasi-Experimental Design, Game Theory, Machine Learning
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Methods
 - description: 10%
   icon: camera-retro
   icon_pack: fas

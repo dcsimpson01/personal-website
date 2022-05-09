@@ -28,7 +28,7 @@ feature:
   icon_pack: fas
   name: Methods
 - description: Statistical Analysis, Program Evaluation, Data Engineering, Data Visualization
-  icon: ballot
+  icon: chart-user
   icon_pack: fa
   name: Deliverables
 

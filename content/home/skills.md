@@ -29,7 +29,7 @@ feature:
   name: Methods
 - description: Statistical Analysis, Program Evaluation, Data Engineering, Data Visualization
   icon: ballot
-  icon_pack: fa
+  icon_pack: fas
   name: Deliverables
 
 # Uncomment to use emoji icons.

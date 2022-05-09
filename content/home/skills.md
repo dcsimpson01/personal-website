@@ -19,11 +19,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: R, Python, Mathematica, git, LaTeX, STATA, MATLAB, QGIS
-  icon: Code
-  icon_pack: fas
+- description: R, Python, Mathematica, git, LaTeX, STATA, MATLAB
+  icon: code
+  icon_pack: fa
   name: Programming
-- description: RCTs, Quasi-Experimental Design, Game Theory, Machine Learning
+- description: RCTs, Quasi-Experimental Design, Game Theory, Machine Learning, GIS
   icon: chart-line
   icon_pack: fas
   name: Methods

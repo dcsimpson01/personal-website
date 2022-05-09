@@ -22,15 +22,15 @@ feature:
 - description: R, Python, Mathematica, git, LaTeX, STATA, MATLAB
   icon: code
   icon_pack: fa-regular
-  name: Programming
+  name: Programs
 - description: RCTs, Quasi-Experimental Design, Game Theory, Machine Learning, GIS
   icon: chart-line
   icon_pack: fas
   name: Methods
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: Data Engineering, Data Visualization, Statistical Analysis, Program Evaluation
+  icon: chart-simple-horizontal
+  icon_pack: fa
+  name: Deliverables
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

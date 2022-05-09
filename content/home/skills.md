@@ -4,7 +4,7 @@
 widget: featurette
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -22,7 +22,7 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Programming
 - description: 100%
   icon: chart-line
   icon_pack: fas

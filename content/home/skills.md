@@ -21,7 +21,7 @@ subtitle:
 feature:
 - description: R, Python, Mathematica, git, LaTeX, STATA, MATLAB
   icon: code
-  icon_pack: fa-regular
+  icon_pack: fa
   name: Programs
 - description: RCTs, Quasi-Experimental Design, Game Theory, Machine Learning, GIS
   icon: chart-line

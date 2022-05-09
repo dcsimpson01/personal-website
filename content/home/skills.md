@@ -20,7 +20,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: R, Python, Mathematica, git, LaTeX, STATA, MATLAB, QGIS
-  icon: r-project
+  icon: code
   icon_pack: fab
   name: Programming
 - description: 100%
